@@ -1,0 +1,36 @@
+# Local API Keys and secrets
+config.json
+.env
+*.key
+*.pem
+
+# Audio runtime cache
+audio_cache/*.mp3
+audio_cache/*.wav
+
+# Python artifacts
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+env/
+venv/
+.venv/
+
+# PyInstaller build outputs
+build/
+dist/
+*.spec
+*.exe
+
+# IDE & Editor files
+.vscode/
+.idea/
+*.sublime-project
+*.sublime-workspace
+
+# OS files
+Thumbs.db
+Desktop.ini
+.DS_Store

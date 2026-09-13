@@ -1,0 +1,9 @@
+{
+  "provider": "openai",
+  "api_key": "",
+  "base_url": "https://api.moonshot.cn/v1",
+  "model": "moonshot-v1-8k",
+  "fish_api_key": "",
+  "fish_reference_id": "93d4dc1cbd6f4d55aee5ca54c0f9c6bb",
+  "tts_enabled": false
+}
